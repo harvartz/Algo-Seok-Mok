@@ -7,4 +7,4 @@
 |2024-01-08|BFS/DFS|[나이트의 이동](https://www.acmicpc.net/problem/7562)|---|---|
 |2024-01-15|BFS/DFS|[불](https://www.acmicpc.net/problem/5427)|---|---|
 |2024-01-15|BFS/DFS|[단지번호붙이기](https://www.acmicpc.net/problem/2667)|---|---|
-|2024-01-15|백트랙킹|[N-Queen](https://www.acmicpc.net/problem/7562)|---|---|
+|2024-01-15|백트랙킹|[N-Queen](https://www.acmicpc.net/problem/9663)|---|---|
