@@ -15,3 +15,8 @@
 |일차|알고리즘 분류|문제|석진이 풀이|성목이 풀이|
 |------|---|---|---|---|
 |2024-01-15|백트랙킹|[N-Queen](https://www.acmicpc.net/problem/9663)|---|---|
+|2024-01-16|백트랙킹|[N과 M(1)](https://www.acmicpc.net/problem/15649)|---|---|
+|2024-01-16|백트랙킹|[부분수열의 합](https://www.acmicpc.net/problem/1182)|---|---|
+|2024-01-16|백트랙킹|[N과 M(2)](https://www.acmicpc.net/problem/15650)|---|---|
+
+
